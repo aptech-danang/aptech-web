@@ -1,2 +1,3 @@
-# aptech-web
-Đồ án học kỳ I tại Aptech
+# aptech-danang
+## git examples
+Workshop dành cho học viên Aptech
